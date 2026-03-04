@@ -10,7 +10,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mabu0410?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0d1117&logo=github)](https://github.com/mabu0410)
 ![Profile Views](https://komarev.com/ghpvc/?username=mabu0410&color=00D4FF&style=for-the-badge&label=VISITORS)
-[![wakatime](https://wakatime.com/badge/user/mabu0410.svg?style=for-the-badge&color=FF6B6B&labelColor=0d1117)](https://wakatime.com/@mabu0410)
+
 
 </div>
 
